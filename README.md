@@ -1,6 +1,7 @@
 # BobsSigns
 
 Solution for Codewars problem: Bob's Signs - 4 kyu
+Uses a process similar to the Levenshtein distance algorithm See: https://dzone.com/articles/the-levenshtein-algorithm-1
 
 Details:
 
